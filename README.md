@@ -43,6 +43,7 @@
 <img align="left" src="https://img.icons8.com/color/48/000000/android-studio--v2.png"/>
 <img align="left" src="https://img.icons8.com/color/48/000000/pycharm.png"/>
 <img src="https://img.icons8.com/ios/48/000000/wordpress--v2.png"/>
+<img src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png"/>
 
 
 <br />
