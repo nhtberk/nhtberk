@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Machine Learning and Image Processing.
 - 😄 Pronouns: he/him
 - 
-![Visitor Count](https://profile-counter.glitch.me/nhtberk/count.svg)
+Visitor Count:![Visitor Count](https://profile-counter.glitch.me/nhtberk/count.svg)
 [![Website cv.lbesson.qc.to](https://img.shields.io/website-up-down-green-red/http/cv.lbesson.qc.to.svg)](https://nhtberk.github.io/)
 
 [![GitHub followers](https://img.shields.io/github/followers/nhtberk.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/nhtberk?tab=followers)
