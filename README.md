@@ -4,9 +4,7 @@
 - 🌱 I’m currently learning Machine Learning and Image Processing.
 - 😄 Pronouns: he/him
 - 
-![](https://komarev.com/ghpvc/?username=nhtberk&color=blue)
-<br/>
-
+![Counter](https://komarev.com/ghpvc/?username=nhtberk&color=blue)
 [![Website cv.lbesson.qc.to](https://img.shields.io/website-up-down-green-red/http/cv.lbesson.qc.to.svg)](https://nhtberk.github.io/)
 
 [![GitHub followers](https://img.shields.io/github/followers/nhtberk.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/nhtberk?tab=followers)
