@@ -39,6 +39,7 @@
 ### Tools:
 
 <img align="left" src="https://commons.wikimedia.org/wiki/File:PhpStorm_Icon.svg" />
+<img align="left" src="https://img.icons8.com/color/48/000000/android-studio--v2.png"/>
 
 ---
 
