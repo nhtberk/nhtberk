@@ -2,9 +2,8 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/nhtberk.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/nhtberk?tab=followers)
 
-- 🔭 I’m currently working on Image Processing Mobile App
-- 🌱 I’m currently learning Machine Learning and Image Processing
-- 📫 How to reach me:[LinkedIn](https://www.linkedin.com/in/nhtberk/)
+- 🔭 I’m currently working on Image Processing Mobile App.
+- 🌱 I’m currently learning Machine Learning and Image Processing.
 - 😄 Pronouns: he/him
 
 
