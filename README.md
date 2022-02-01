@@ -47,7 +47,7 @@
 <img align="left" src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png"/>
 <img align="left" src="https://img.icons8.com/nolan/48/brackets-ide.png"/>
 <img align="left" src="https://img.icons8.com/color/48/000000/firebase.png"/>
-<img align="left" src="https://user-images.githubusercontent.com/57418401/152017545-6206e5bb-b356-4a51-b5ed-b23ddbaf2287.png"/>
+<img align="left" src="https://user-images.githubusercontent.com/57418401/152017545-6206e5bb-b356-4a51-b5ed-b23ddbaf2287.png" width="48px" height="48px"/>
 <br />
 <br />
 
