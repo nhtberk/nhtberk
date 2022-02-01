@@ -20,6 +20,7 @@
 <img align="left" src="https://img.icons8.com/officel/48/000000/php-logo.png"/>
 <img align="left" src="https://img.icons8.com/fluency/48/000000/laravel.png"/>
 <img align="left" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
+<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-postgre-sql-a-free-and-open-source-relational-database-management-system-logo-color-tal-revivo.png"/>
 
 <br />
 <br />
@@ -27,8 +28,8 @@
 ---
 
 ### Learning Languages:
-<img align="left" src="https://img.icons8.com/office/16/000000/react.png"/>
-
+<img align="left" src="https://img.icons8.com/office/48/000000/react.png"/>
+<img src="https://img.icons8.com/material-outlined/48/000000/kotlin.png"/>
 
 
 <br />
