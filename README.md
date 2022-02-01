@@ -8,7 +8,7 @@
 - 😄 Pronouns: he/him
 
 - What programming languages do I use?
-[![Java](https://img.shields.io/badge/--F7DF1E?logo=java&logoColor=000)]
+[![Java](https://img.shields.io/badge/--F7DF1E?logo=java&logoColor=000)](https://www.java.com/tr/)
 - OS
 [![Windows](https://svgshare.com/i/ZhY.svg)](https://svgshare.com/i/ZhY.svg)
 
