@@ -7,7 +7,7 @@
 ![Counter](https://komarev.com/ghpvc/?username=nhtberk&color=blue)
 [![Website cv.lbesson.qc.to](https://img.shields.io/website-up-down-green-red/http/cv.lbesson.qc.to.svg)](https://nhtberk.github.io/)
 [![GitHub followers](https://img.shields.io/github/followers/nhtberk.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/nhtberk?tab=followers)
-
+<img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/nhtberk?style=social">
 
 ### Connect with me:
 [<img src="https://img.icons8.com/external-justicon-flat-justicon/48/000000/external-linkedin-social-media-justicon-flat-justicon.png"/>][linkedin]
