@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/nhtberk.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/nhtberk?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/nhtberk/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/stargazers/)
 
 - 🔭 I’m currently working on Image Processing Mobile App
 - 🌱 I’m currently learning Machine Learning and Image Processing
@@ -9,7 +8,7 @@
 - 😄 Pronouns: he/him
 
 - What programming languages do I use?
-
+[![Java](https://img.shields.io/badge/--F7DF1E?logo=java&logoColor=000)]
 - OS
 [![Windows](https://svgshare.com/i/ZhY.svg)](https://svgshare.com/i/ZhY.svg)
 
