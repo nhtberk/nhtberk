@@ -54,7 +54,7 @@
 
 ---
 
-[![nhtberk's github stats](https://github-readme-stats.vercel.app/api?username=nhtberk&theme=blue-green)](https://github.com/nhtberk/github-readme-stats)
+[![nhtberk's github stats](https://github-readme-stats.vercel.app/api?username=nhtberk&theme=blue-green)]
 
 
 
