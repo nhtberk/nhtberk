@@ -27,7 +27,8 @@
 <img align="left" src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
 <img align="left" align="left" src="https://img.icons8.com/color/48/000000/c-programming.png"/>
 <img align="left" src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png"/>
-
+<img align="left" align="left" src="https://img.icons8.com/color/48/000000/opencv.png"/>
+<img align="left" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
 <br />
 <br />
 
@@ -67,6 +68,11 @@
 ---
 [![nhtberk's github stats](https://github-readme-stats.vercel.app/api?username=nhtberk&theme=blue-green)]
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nhtberk&show_icons=true&locale=en&layout=compact" alt="nhtberk" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nhtberk&show_icons=true&locale=en" alt="nhtberk" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nhtberk&" alt="nhtberk" /></p>
 
 [instagram]: https://instagram.com/nhtberk
 [linkedin]: https://linkedin.com/in/nhtberk
