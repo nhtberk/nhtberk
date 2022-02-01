@@ -4,6 +4,8 @@
 - 🌱 I’m currently learning Machine Learning and Image Processing.
 - 😄 Pronouns: he/him
 
+[![Website cv.lbesson.qc.to](https://img.shields.io/website-up-down-green-red/http/cv.lbesson.qc.to.svg)](https://nhtberk.github.io/)
+
 [![GitHub followers](https://img.shields.io/github/followers/nhtberk.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/nhtberk?tab=followers)
 [![GitHub stars](https://img.shields.io/github/stars/Naereen/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/stargazers/)
 [![GitHub forks](https://img.shields.io/github/forks/Naereen/StrapDown.js.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/network/)
@@ -23,6 +25,7 @@
 <img align="left" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
 <img align="left" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-postgre-sql-a-free-and-open-source-relational-database-management-system-logo-color-tal-revivo.png"/>
 <img align="left" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
+<img align="left" src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
 
 <br />
 <br />
