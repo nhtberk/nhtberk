@@ -9,8 +9,13 @@
 
 - What programming languages do I use?
 [![Java](https://img.shields.io/badge/--F7DF1E?logo=java&logoColor=000)](https://www.java.com/tr/)
-- OS
-[![Windows](https://svgshare.com/i/ZhY.svg)](https://svgshare.com/i/ZhY.svg)
+
+
+-What IDEs do I use
+[![Visual Studio Code](https://img.shields.io/badge/--007ACC?logo=visual%20studio%20code&logoColor=ffffff)](https://code.visualstudio.com/)
+[![PhpStorm](https://badgen.net/badge/icon/eclipse?icon=eclipse&label)](https://www.jetbrains.com/phpstorm/)
+
+-[![Windows](https://svgshare.com/i/ZhY.svg)](https://svgshare.com/i/ZhY.svg)
 
 [![nhtberk's github stats](https://github-readme-stats.vercel.app/api?username=nhtberk&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
