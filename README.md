@@ -6,9 +6,11 @@
 - 🌱 I’m currently learning Machine Learning and Image Processing.
 - 😄 Pronouns: he/him
 
+### Connect with me:
 [<img src="https://img.icons8.com/external-justicon-flat-justicon/48/000000/external-linkedin-social-media-justicon-flat-justicon.png"/>][linkedin]
 [<img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png"/>][instagram]
 
+<br />
 <br />
 
 ### Languages:
