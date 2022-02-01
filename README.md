@@ -20,6 +20,7 @@
 <img align="left" src="https://img.icons8.com/fluency/48/000000/laravel.png"/>
 <img align="left" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
 <img align="left" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-postgre-sql-a-free-and-open-source-relational-database-management-system-logo-color-tal-revivo.png"/>
+<img align="left" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
 
 <br />
 <br />
