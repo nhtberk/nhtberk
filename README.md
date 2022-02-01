@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on Image Processing Mobile App
 - 🌱 I’m currently learning Machine Learning and Image Processing
-- 📫 How to reach me: https://www.linkedin.com/in/nhtberk/
+- 📫 How to reach me:[LinkedIn](https://www.linkedin.com/in/nhtberk/)
 - 😄 Pronouns: he/him
 
 - What programming languages do I use?
