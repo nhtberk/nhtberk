@@ -1,10 +1,12 @@
 ### Hi there 👋
 
-[![GitHub followers](https://img.shields.io/github/followers/nhtberk.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/nhtberk?tab=followers)
-[![GitHub forks](https://img.shields.io/github/forks/nhtberk/StrapDown.js.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/network/)
 - 🔭 I’m currently working on Image Processing Mobile App.
 - 🌱 I’m currently learning Machine Learning and Image Processing.
 - 😄 Pronouns: he/him
+
+[![GitHub followers](https://img.shields.io/github/followers/nhtberk.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/nhtberk?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/Naereen/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/stargazers/)
+[![GitHub forks](https://img.shields.io/github/forks/Naereen/StrapDown.js.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/network/)
 
 ### Connect with me:
 [<img src="https://img.icons8.com/external-justicon-flat-justicon/48/000000/external-linkedin-social-media-justicon-flat-justicon.png"/>][linkedin]
@@ -55,6 +57,13 @@
 
 ---
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nhtberk)](https://github.com/nhtberk/github-readme-stats)
+
+
+<br/>
+<br/>
+
+---
 [![nhtberk's github stats](https://github-readme-stats.vercel.app/api?username=nhtberk&theme=blue-green)]
 
 
