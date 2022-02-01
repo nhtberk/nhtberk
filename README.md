@@ -17,10 +17,9 @@
 <img align="left" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
 <img align="left" src="https://img.icons8.com/color/48/000000/css3.png"/>
 <img align="left" src="https://img.icons8.com/color/48/000000/python--v1.png"/>
-<img align="left" src="https://img.icons8.com/officel/16/000000/php-logo.png"/>
+<img align="left" src="https://img.icons8.com/officel/48/000000/php-logo.png"/>
 <img align="left" src="https://img.icons8.com/fluency/48/000000/laravel.png"/>
 <img align="left" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
-
 
 <br />
 <br />
