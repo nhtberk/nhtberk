@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/nhtberk.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/nhtberk?tab=followers)
-
+[![GitHub forks](https://img.shields.io/github/forks/nhtberk/StrapDown.js.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/nhtberk/StrapDown.js/network/)
 - 🔭 I’m currently working on Image Processing Mobile App.
 - 🌱 I’m currently learning Machine Learning and Image Processing.
 - 😄 Pronouns: he/him
