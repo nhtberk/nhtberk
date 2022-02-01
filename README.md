@@ -59,7 +59,12 @@
 
 
 
+<details>
+  <summary>:zap: GitHub Stats</summary>
 
+  <img align="left" alt="nhtberk's GitHub Stats" src="https://github-readme-stats.nhtberk.vercel.app/api?username=nhtberk&show_icons=true&hide_border=true" />
+
+</details>
 
 
 
