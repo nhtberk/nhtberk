@@ -56,11 +56,9 @@
 <br />
 
 ---
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nhtberk)](https://github.com/nhtberk/github-readme-stats)
 <br/>
 <br/>
-
 ---
 [![nhtberk's github stats](https://github-readme-stats.vercel.app/api?username=nhtberk&theme=blue-green)]
 
