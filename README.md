@@ -38,8 +38,10 @@
 
 ### Tools:
 
-<img align="left" src="https://commons.wikimedia.org/wiki/File:PhpStorm_Icon.svg" />
+<img src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png"/>
+<img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
 <img align="left" src="https://img.icons8.com/color/48/000000/android-studio--v2.png"/>
+<img src="https://img.icons8.com/color/48/000000/pycharm.png"/>
 
 ---
 
