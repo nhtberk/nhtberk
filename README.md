@@ -29,6 +29,7 @@
 <img align="left" src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png"/>
 <img align="left" align="left" src="https://img.icons8.com/color/48/000000/opencv.png"/>
 <img align="left" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
+
 <br />
 <br />
 
