@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-[![GitHub followers](https://img.shields.io/github/followers/Naereen.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/nhtberk?tab=followers)
-Here are some ideas to get you started:
+[![GitHub followers](https://img.shields.io/github/followers/nhtberk.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/nhtberk?tab=followers)
 
 - 🔭 I’m currently working on Image Processing Mobile App
 - 🌱 I’m currently learning Machine Learning and Image Processing
