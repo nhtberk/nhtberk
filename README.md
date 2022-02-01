@@ -58,17 +58,5 @@
 [![nhtberk's github stats](https://github-readme-stats.vercel.app/api?username=nhtberk&theme=blue-green)]
 
 
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="nhtberk's GitHub Stats" src="https://github-readme-stats.nhtberk.vercel.app/api?username=nhtberk&show_icons=true&hide_border=true" />
-
-</details>
-
-
-
-
-
 [instagram]: https://instagram.com/nhtberk
 [linkedin]: https://linkedin.com/in/nhtberk
