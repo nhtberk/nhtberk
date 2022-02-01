@@ -10,8 +10,8 @@ Visitor Count:![Visitor Count](https://profile-counter.glitch.me/nhtberk/count.s
 [![Website cv.lbesson.qc.to](https://img.shields.io/website-up-down-green-red/http/cv.lbesson.qc.to.svg)](https://nhtberk.github.io/)
 
 [![GitHub followers](https://img.shields.io/github/followers/nhtberk.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/nhtberk?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/Naereen/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/stargazers/)
-[![GitHub forks](https://img.shields.io/github/forks/Naereen/StrapDown.js.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/network/)
+[![GitHub stars](https://img.shields.io/github/stars/nhtberk/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/nhtberk/StrapDown.js/stargazers/)
+[![GitHub forks](https://img.shields.io/github/forks/nhtberk/StrapDown.js.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/nhtberk/StrapDown.js/network/)
 
 ### Connect with me:
 [<img src="https://img.icons8.com/external-justicon-flat-justicon/48/000000/external-linkedin-social-media-justicon-flat-justicon.png"/>][linkedin]
