@@ -13,7 +13,7 @@
 
 -What IDEs do I use
 [![Visual Studio Code](https://img.shields.io/badge/--007ACC?logo=visual%20studio%20code&logoColor=ffffff)](https://code.visualstudio.com/)
-[![PhpStorm](https://badgen.net/badge/icon/eclipse?icon=eclipse&label)](https://www.jetbrains.com/phpstorm/)
+[![PhpStorm](https://badgen.net/badge/icon/phpstorm?icon=eclipse&label)](https://www.jetbrains.com/phpstorm/)
 
 -[![Windows](https://svgshare.com/i/ZhY.svg)](https://svgshare.com/i/ZhY.svg)
 
