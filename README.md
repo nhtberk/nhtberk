@@ -9,6 +9,9 @@
 [![GitHub followers](https://img.shields.io/github/followers/nhtberk.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/nhtberk?tab=followers)
 <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/nhtberk?style=social">
 
+### Donate BAT to me:
+if you use Brave Browser, you can donate me BAT Token. Click ![image](https://user-images.githubusercontent.com/57418401/152553039-5dc8cd5a-3f27-4058-b77c-ba024f53582b.png) and donate me!
+
 ### Connect with me:
 [<img src="https://img.icons8.com/external-justicon-flat-justicon/48/000000/external-linkedin-social-media-justicon-flat-justicon.png"/>][linkedin]
 [<img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png"/>][instagram]
