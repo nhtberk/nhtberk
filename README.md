@@ -10,7 +10,8 @@
 <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/nhtberk?style=social">
 
 ### Donate BAT to me:
-if you use Brave Browser, you can donate me BAT Token. Click ![image](https://user-images.githubusercontent.com/57418401/152553039-5dc8cd5a-3f27-4058-b77c-ba024f53582b.png) and donate me!
+if you use Brave Browser, you can donate me BAT Token. Click ![image](https://user-images.githubusercontent.com/57418401/152553203-be27e2cc-1f38-4bd5-bb75-c6d415d31558.png)
+ and donate me!!
 
 ### Connect with me:
 [<img src="https://img.icons8.com/external-justicon-flat-justicon/48/000000/external-linkedin-social-media-justicon-flat-justicon.png"/>][linkedin]
