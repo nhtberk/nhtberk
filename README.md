@@ -10,7 +10,7 @@
 <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/nhtberk?style=social">
 
 ### Donate BAT to me:
-if you use Brave Browser, you can donate me BAT Token. Click ![image](https://user-images.githubusercontent.com/57418401/152553203-be27e2cc-1f38-4bd5-bb75-c6d415d31558.png)
+if you use Brave Browser, you can donate me BAT Token. Click https://upload.wikimedia.org/wikipedia/commons/5/5a/Basic_Attention_Token_Icon.svg
  and donate me!!
 
 ### Connect with me:
