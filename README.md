@@ -5,9 +5,9 @@
 - 😄 Pronouns: he/him
 
 ![Counter](https://komarev.com/ghpvc/?username=nhtberk&color=blue)
-[![Website cv.lbesson.qc.to](https://img.shields.io/website-up-down-green-red/http/cv.lbesson.qc.to.svg)](https://nhtberk.github.io/)
+
 [![GitHub followers](https://img.shields.io/github/followers/nhtberk.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/nhtberk?tab=followers)
-<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/nhtberk?style=social">
+
 
 ### Donate BAT to me:
 if you use Brave Browser, you can donate me BAT Token. Click ![2785317_attention_basic_basicattentiontoken_blockchain_token_icon (2)](https://user-images.githubusercontent.com/57418401/152553769-2020b39d-4b8e-425c-af93-eef255d2e931.png) and donate me!!
