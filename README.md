@@ -5,7 +5,6 @@
 - 😄 Pronouns: he/him
 
 ![Counter](https://komarev.com/ghpvc/?username=nhtberk&color=blue)
-
 [![GitHub followers](https://img.shields.io/github/followers/nhtberk.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/nhtberk?tab=followers)
 
 
