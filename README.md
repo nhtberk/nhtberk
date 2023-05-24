@@ -1,68 +1,11 @@
-### Hi there 👋. I'm Nihat Berk.
-
-![Counter](https://komarev.com/ghpvc/?username=nhtberk&color=blue)
-
-[![GitHub followers](https://img.shields.io/github/followers/nhtberk.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/nhtberk?tab=followers)
+# 💫 About Me:
+Hi there. I'm Berk.<br>I'm junior Frontend Developer at RTK.<br>
 
 
-### Connect with me:
-[<img src="https://img.icons8.com/external-justicon-flat-justicon/48/000000/external-linkedin-social-media-justicon-flat-justicon.png"/>][linkedin]
-[<img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png"/>][instagram]
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![IOS](https://img.shields.io/badge/IOS-%2320232a.svg?style=for-the-badge&logo=apple&logoColor=white) ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=nhtberk&icon=2&color=1)](https://visitcount.itsvg.in)
 
-### Languages:
-<img align="left" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
-<img align="left" src="https://img.icons8.com/color/48/000000/css3.png"/>
-<img align="left" src="https://img.icons8.com/color/48/000000/python--v1.png"/>
-<img align="left" src="https://img.icons8.com/officel/48/000000/php-logo.png"/>
-<img align="left" src="https://img.icons8.com/fluency/48/000000/laravel.png"/>
-<img align="left" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
-<img align="left" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-postgre-sql-a-free-and-open-source-relational-database-management-system-logo-color-tal-revivo.png"/>
-<img align="left" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
-<img align="left" src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
-<img align="left" align="left" src="https://img.icons8.com/color/48/000000/c-programming.png"/>
-<img align="left" src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png"/>
-<img align="left" align="left" src="https://img.icons8.com/color/48/000000/opencv.png"/>
-
-
-<br />
-<br />
-
-
----
-
-### Learning Languages:
-<img align="left" src="https://img.icons8.com/office/48/000000/react.png"/>
-<img align="left" src="https://img.icons8.com/material-outlined/48/000000/kotlin.png"/>
-
-
-<br />
-<br />
-
----
-
-### Tools:
-
-<img align="left" src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png"/>
-<img align="left" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
-<img align="left" src="https://img.icons8.com/color/48/000000/android-studio--v2.png"/>
-<img align="left" src="https://img.icons8.com/color/48/000000/pycharm.png"/>
-<img align="left" src="https://img.icons8.com/ios/48/000000/wordpress--v2.png"/>
-<img align="left" src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png"/>
-<img align="left" src="https://img.icons8.com/nolan/48/brackets-ide.png"/>
-<img align="left" src="https://img.icons8.com/color/48/000000/firebase.png"/>
-<img align="left" src="https://user-images.githubusercontent.com/57418401/152017545-6206e5bb-b356-4a51-b5ed-b23ddbaf2287.png" width="48px" height="48px"/>
-<img align="left" src="https://img.icons8.com/color/48/000000/git.png"/>
-
-<br />
-<br />
-
----
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=nhtberk&show_icons=true&locale=en" alt="nhtberk" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nhtberk&" alt="nhtberk" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nhtberk&show_icons=true&locale=en&layout=compact" alt="nhtberk" /></p>
-
-[instagram]: https://instagram.com/nhtberk
-[linkedin]: https://linkedin.com/in/nhtberk
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
